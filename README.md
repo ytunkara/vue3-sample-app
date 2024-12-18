@@ -1,5 +1,4 @@
 # vue3-sample-app
-vue3-sample-app
 
 Let's create a Vue 3 project from scratch using Vue's recommended approach as suggested by the Vue website. 
 
